@@ -1,24 +1,10 @@
-# README
+# VacationCritique 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Overview 
 
-Things you may want to cover:
+This is an SPA created for users to leave meaningful reviews of their favorite trips or vacations. Users have the ability to view reviews from various categories and add their own review for others to benefit. 
 
-* Ruby version
+## Resources 
 
-* System dependencies
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
